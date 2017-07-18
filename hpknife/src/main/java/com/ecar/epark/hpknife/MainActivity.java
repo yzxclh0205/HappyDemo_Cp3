@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         RoadKnife.bindView(this);
-        tx_content.setText("显示文字");
+        tx_content.setText("显示文字 ");
         startActivity(new Intent(this,MainActivity2.class));
     }
 }
