@@ -1,1 +1,1 @@
-include ':app', ':dbdemo', ':binderdemo'
+include ':app', ':dbdemo', ':binderdemo', ':eannotation', ':hpknife'
