@@ -11,6 +11,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/binderdemo" />
             <option value="$PROJECT_DIR$/dbdemo" />
+            <option value="$PROJECT_DIR$/eannotation" />
+            <option value="$PROJECT_DIR$/hpknife" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
