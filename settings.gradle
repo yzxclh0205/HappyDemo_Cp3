@@ -1,1 +1,1 @@
-include ':app', ':dbdemo', ':binderdemo', ':eannotation', ':hpknife'
+include ':app', ':dbdemo', ':binderdemo', ':eannotation', ':hpknife', ':rxbuslib'
